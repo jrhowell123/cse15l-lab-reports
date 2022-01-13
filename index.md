@@ -11,4 +11,4 @@ Hello, World!
 [funny hahahah](https://www.youtube.com/watch?v=JXWcMiG9ROQ)
 
 ## Live Heading update crazy !!!! 
-![Image](week2imagegithubcse15L.jpg)
+![Image](week2imagegithubcse15l.jpeg)
