@@ -15,9 +15,9 @@
 * Next try moving files with with the scp comand. First logout then from your client run the following in the terminal scp FileName.java cs15lwi22zz@ieng6.ucsd.edu:~/ .
 ## Setting an SSH Key
 ![Image](Week2LRSS5.png)
-* 
+*  To make the ssh key will be usefull as you will not have to use your password everytime you go into the remote server. Do this by using the ssh-keygen. It should end up using looking like the screen shot.
 ## Optimizing Remote Running
 ![Image](Week2LRSS6.png)
-*
+* Once you have the SSH key set up you can run commands from the client directly onothteh server the a command example is in the Screen shot above.
 
 [Back To Home Page](https://jrhowell123.github.io/cse15l-lab-reports/)
