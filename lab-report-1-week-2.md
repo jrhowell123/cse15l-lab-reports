@@ -19,7 +19,9 @@
 ## Optimizing Remote Running
 ![Image](Week2LRSS6.png)
 * Once you have the SSH key set up you can run commands from the client directly onothteh server the a command example is in the Screen shot above.
+
 ![Image](Week2LRSS7.png)
+
 * After final optimztion hav taken place I was able to ```ssh cs15lwi22@ieng6.ucsd.edu ls ``` and ```cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI``` all in ten key strokes and 3 mouse clicks. This was possible because of the early steps that enabled my to not have to use my pasword on my local device when connecting to the server. 
 
 [Back To Home Page](https://jrhowell123.github.io/cse15l-lab-reports/)
