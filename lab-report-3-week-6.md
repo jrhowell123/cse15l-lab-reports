@@ -6,11 +6,11 @@
 
 ## Markdown-parse directory to ieng6
 ![Image](Week6LRSS2.png)
-* Usaully adding files in a large directory to a remote server would be tedious as you would have to ```scp``` each one into the remote severe. Howver with certian commands yu can do this quiclky taign advatage of recursion. The command is ```scp -r . cs15lwi22@ieng6.ucsd.edu:~/markdown-parse``` (of course with your own user name) the ```-r ``` represents  the recursive lemtn of the program and the ```.``` repsresnt the current directory you want to copy over. 
+* Usaully adding files in a large directory to a remote server would be tedious as you would have to ```scp``` each one into the remote severe. However with certain commands you can do this quiclky taking advatage of recursion. The command is ```scp -r . cs15lwi22@ieng6.ucsd.edu:~/markdown-parse``` (of course with your own user name) the ```-r ``` represents  the recursive element of the program and the ```.``` repsresnt the current directory you want to copy over. 
 
 ## Running Newly Coppied Tests
 ![Image](Week6LRSS3.png)
-* In this example you can see what it looks like when the recursion is running and copying everything to the remote server. If you look closely I try to compile the tests and it fails why might this be? If you guessed that it was i didnt complie using the lib that contians the Junit necessities you would be correct. In the next example you will see how this done correctly using right comannds.(```javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java```, ```//java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest```)
+* In this example you can see what it looks like when the recursion is running and copying everything to the remote server. If you look closely I try to compile the tests on the remote server and it fails why might this be? If you guessed that it was that I didnt compile using the lib that contains the Junit necessities you would be correct. In the next example you will see how this done correctly using right comannds.(```javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java```, ```//java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest```)
 
 ## Combining ```scp```, ```;```, and ```ssh``` for Optimization 
 ![Image](Week6LRSS5.png)
