@@ -11,4 +11,6 @@
 
 [Lab-Report-4-Week-8](https://jrhowell123.github.io/cse15l-lab-reports/lab-report-4-week-8.html)
 
+[Lab-Report-4-Week-8](https://jrhowell123.github.io/cse15l-lab-reports/lab-report-5-week-10.html)
+
 [CLICK IF YOU DARE!!!](https://www.youtube.com/watch?v=JXWcMiG9ROQ)
